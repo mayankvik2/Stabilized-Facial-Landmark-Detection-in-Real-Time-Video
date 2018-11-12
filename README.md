@@ -1,8 +1,7 @@
 # Stabilized-Facial-Landmark-Detection-in-Real-Time-Video
 Kindly view attached research paper first for fully understanding probelm statements and concepts.
 
-![a link](https://www.linkedin.com/feed/update/urn:li:activity:6467719103737102336/)
-
+[Project Demo](https://www.linkedin.com/feed/update/urn:li:activity:6467719103737102336/)
 
 One of the major challenges in Facial Landmark Detection on a real time video that it will not perform good under bad and inconsistent lighting conditions and starts jiggling landmark points. The most important reason for this instability is that the landmarks are detected in every frame independently and information in one frame is not tied with information of next frame. 
 
